@@ -65,8 +65,8 @@ Questions, ideas, or feedback? Let’s talk cricket and data!
 ---
 
 Thanks for checking out the IPL Data Analysis! 🏏💡  
-Keep learning and enjoy your exploration!
+
 
 ---
 
-*Made with ❤️ and PySpark by SALEEM AHMED
+*Made with PySpark by SALEEM AHMED
